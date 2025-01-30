@@ -1,4 +1,4 @@
-import { cloneArray } from './cloneArray';
+import { cloneArray } from '../src/cloneArray';
 
 test('cloned the array', () => {
     const array = [1, 2, 3];
