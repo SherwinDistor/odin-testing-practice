@@ -1,1 +1,1 @@
-# template-webpack-lint
+# odin-testing-practice
